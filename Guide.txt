@@ -1,0 +1,12 @@
+Automation framework is built as Maven project and followed POM design pattern.
+
+Source code:
+Available on src/main/java folder
+
+Testcases:
+Available on src/test/java folder
+
+testng.xml file is used as runner file.
+
+Reports:
+TESTNG reports are available on test-output folder
